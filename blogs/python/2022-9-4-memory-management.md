@@ -37,6 +37,7 @@ PyObject contains two things:
 <ul>
   <li><b>ob_refcnt:</b> reference count</li>
   <li><b>ob_type:</b> pointer to another type</li>
+</ul>
 </p>
 
 <p>The reference count increases whenever that object is referenced. For e.g.</p>
@@ -92,6 +93,7 @@ Pools are present inside arenas & have virtual memory of 4 KB. They are composed
   <ul>
     <li><b>freepools:</b> Keeps track of all the pools in empty state</li>
     <li><b>usedpools:</b> Keeps track of all the pools in used state</li>
+  </ul>
 </p>
 
 <p>
