@@ -4,10 +4,12 @@ title: Blogs
 permalink: /blogs/
 ---
 
-<a href="{{ site.baseurl }}/blogs/python" class="python">Python</a>
+## Python
+
+<a href="{{ site.baseurl }}/blogs/python" class="python">Memory Management</a>
 
 <div class="posts">
-  {% for post in site.blogs.python %}
+  {% for post in site.posts %}
     <article class="post">
 
       <h1><a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a></h1>
