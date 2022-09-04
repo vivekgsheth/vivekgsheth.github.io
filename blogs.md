@@ -4,4 +4,4 @@ title: Blogs
 permalink: /blogs/
 ---
 
-Python
+<a href="{{ site.baseurl }}/blogs/python" class="python">Python</a>
