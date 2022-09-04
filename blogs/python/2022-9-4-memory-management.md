@@ -1,10 +1,7 @@
-
 ---
 layout: page
-title: Memory management
+title: Memory mangement
 permalink: /blogs/python
 ---
 
-Software Engineer working at a 
-
-
+Software Engineer working at a FinTech startup Decentro
