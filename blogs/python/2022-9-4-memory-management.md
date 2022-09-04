@@ -18,4 +18,7 @@ permalink: /blogs/python
 </ul>
 </p>
 
-<p>If you want to look at CPython's bytecode then you can. Here's how you can:</p>
+<p>
+  If you want to look at CPython's bytecode then you can. Here's how you can:
+  ![_config.yml]({{ site.baseurl }}/images/python/memory-management/Cpython_bytecode.png)
+</p>
