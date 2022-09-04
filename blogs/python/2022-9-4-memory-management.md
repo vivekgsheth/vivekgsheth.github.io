@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: post
 title: Memory mangement in Python
 permalink: /blogs/python
 ---
