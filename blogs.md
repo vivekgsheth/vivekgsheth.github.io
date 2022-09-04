@@ -8,7 +8,7 @@ permalink: /blogs/
 
 <a href="{{ site.baseurl }}/blogs/python" class="python">Memory Management</a>
 
-<div class="posts">
+<!-- <div class="posts">
   {% for post in site.posts %}
     <article class="post">
 
@@ -22,3 +22,4 @@ permalink: /blogs/
     </article>
   {% endfor %}
 </div>
+ -->
