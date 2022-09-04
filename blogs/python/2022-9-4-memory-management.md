@@ -4,4 +4,18 @@ title: Memory mangement
 permalink: /blogs/python
 ---
 
-Software Engineer working at a FinTech startup Decentro
+## Python Implementation
+
+<p>Python is an interpreted & high-level language. It is dynamically typed & is used as a general-purpose language. The default python implementation is <b>CPython</b> & is written in C programming language.</p>
+
+<p>The CPython converts your python code into computer-readable instructions called bytecode. These instructions are interpreted by a virtual machine when you run your code. The bytecode is stored in <b>.pyc</b> file in <b>__pycache__</b> folder.</p>
+
+<p>Other python implementations available are: 
+<ul>
+  <li><b>Jython:</b> compiles down to Java bytecode to run on JVM (Java Virtual Machine)</li>
+  <li><b>IronPython:</b> compiles down to run on Microsoft’s CLR (Common Language Runtime)</li>
+  <li><b>PyPy:</b> uses JIT (Just-In-Time) compilation to translate python code into assembly language</li>
+</ul>
+</p>
+
+<p>If you want to look at CPython's bytecode then you can. Here's how you can:</p>
